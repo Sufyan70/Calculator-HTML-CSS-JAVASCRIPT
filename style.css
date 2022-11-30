@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+   font-family:  "Sofia", sans-serif;
+}
+.main{
+    height: 500px;
+    width: 355px;
+    padding: 10px;
+    margin-left: 40%;
+}
+.custom_btn{
+    width: 45px;
+    height: 50px;
+    background-color: transparent !important;
+    color: white !important;
+}
+.custom_input{
+    background-color: transparent;
+    color: white !important;
+    width: 63%;
+    height: 50px;
+    font-size: 30px;
+}
+.equal{
+    width: 47%;
+}
